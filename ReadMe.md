@@ -32,4 +32,4 @@ As soon as I started kindergarden, I was very happy to finally leave home and do
 **TL;DR**<br>
 The story was not really funny.
 
-<<[Valerie Van Renne]() || Vidyashree Tarikere || [Wendy Stoop](https://github.com/WendyStoop/markdown-challenge)>>
+<<[Valerie Van Renne]() || [Vidyashree Tarikere](https://github.com/VidyashreeTarikere/markdown-challenge) || [Wendy Stoop](https://github.com/WendyStoop/markdown-challenge)>>
