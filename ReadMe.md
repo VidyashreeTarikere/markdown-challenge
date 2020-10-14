@@ -1,6 +1,10 @@
 # **Vidyashree Tarikere**
 _Just do it_
+<<<<<<< HEAD
 ![About Me](https://user-images.githubusercontent.com/9261592/96003409-7d6b2d00-0e3a-11eb-861b-daff0ba2e8d2.jpg)
+=======
+![About Me](/home/vidyatarikere/Downloads/IMG-20200804-WA0007.jpg)
+>>>>>>> My Becode Commit
 
 > ### "Trying to do it"
 
@@ -29,4 +33,8 @@ As soon as I started kindergarden, I was very happy to finally leave home and do
 
 To summarize, the story was not really funny.
 
+<<<<<<< HEAD
 <<previous || Vidyashree Tarikere || next>>
+=======
+<<previous || Vidyashree Tarikere || next>>
+>>>>>>> My Becode Commit
