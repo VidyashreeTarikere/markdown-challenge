@@ -1,6 +1,6 @@
 <font color="red" size="10">**Vidyashree Tarikere**</font> <br>
 <font size="4">_Just do it_</font> <br>
-![About Me](MyImage.jpg)
+![About Me](https://user-images.githubusercontent.com/9261592/96003409-7d6b2d00-0e3a-11eb-861b-daff0ba2e8d2.jpg)
 
 > ### "Trying to do it"
 
