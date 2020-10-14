@@ -1,6 +1,6 @@
 # **Vidyashree Tarikere**
 _Just do it_
-![About Me](/home/vidyatarikere/Downloads/IMG-20200804-WA0007.jpg)
+![About Me](https://user-images.githubusercontent.com/9261592/96003409-7d6b2d00-0e3a-11eb-861b-daff0ba2e8d2.jpg)
 
 > ### "Trying to do it"
 
