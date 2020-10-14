@@ -1,18 +1,16 @@
-# **Vidyashree Tarikere**
-_Just do it_
-<<<<<<< HEAD
-![About Me](https://user-images.githubusercontent.com/9261592/96003409-7d6b2d00-0e3a-11eb-861b-daff0ba2e8d2.jpg)
-=======
-![About Me](/home/vidyatarikere/Downloads/IMG-20200804-WA0007.jpg)
->>>>>>> My Becode Commit
+<font color="red" size="10">**Vidyashree Tarikere**</font> <br>
+<font size="4">_Just do it_</font> <br>
+![About Me](MyImage.jpg)
 
 > ### "Trying to do it"
 
------
-Birthday : 16th of April <br>
-Favorite Color : Blue <br>
-Favorite Food : Pizza <br>
-Pineapple on Pizza : [x] Yes [ ]No
+_____
+| Basics | About Me |
+| ---- | ---- |
+Birthday | 16th of April 
+Favorite Color | <font color="blue">Blue</font> <br>
+Favorite Food | Pizza <br>
+Pineapple on Pizza | [x] Yes [ ]No
 ____
 
 ### My Hobbies are:
@@ -26,15 +24,12 @@ ____
 
 **You can always count on me for opening the door as I have the badge. P.S. I have because I live nearby. Yet to earn it**
 
-_I would like to contribute with the theory behind the stuff we code like, say, how memory works. Also, maybe something about Computer Networks, if anyone is interested._
+_I would like to contribute with the theory behind the stuff we code like, say, how memory works._
 
 ### Something funny which happened when I was in Kindergarden ,
 As soon as I started kindergarden, I was very happy to finally leave home and do something(sarcastic). I didn't cry for a week but then saw other kids crying and started weeping everyday after going to school. I feel this is not really funny. But can't think of anything else.
 
-To summarize, the story was not really funny.
+**TL;DR**<br>
+The story was not really funny.
 
-<<<<<<< HEAD
-<<previous || Vidyashree Tarikere || next>>
-=======
-<<previous || Vidyashree Tarikere || next>>
->>>>>>> My Becode Commit
+<<[Valerie Van Renne]() || Vidyashree Tarikere || [Wendy Stoop](https://github.com/WendyStoop/markdown-challenge)>>
