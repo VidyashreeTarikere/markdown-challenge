@@ -13,7 +13,7 @@ Favorite Food | Pizza <br>
 Pineapple on Pizza | [x] Yes [ ]No
 ____
 
-### My Hobbies are:
+#### My Hobbies are:
 - Cooking
     - Indian
     - Italian
@@ -26,10 +26,10 @@ ____
 
 _I would like to contribute with the theory behind the stuff we code like, say, how memory works._
 
-### Something funny which happened when I was in Kindergarden ,
+#### Something funny which happened when I was in Kindergarden ,
 As soon as I started kindergarden, I was very happy to finally leave home and do something(sarcastic). I didn't cry for a week but then saw other kids crying and started weeping everyday after going to school. I feel this is not really funny. But can't think of anything else.
 
 **TL;DR**<br>
 The story was not really funny.
 
-<<[Valerie Van Renne]() || [Vidyashree Tarikere](https://github.com/VidyashreeTarikere/markdown-challenge) || [Wendy Stoop](https://github.com/WendyStoop/markdown-challenge)>>
+<<[Valerie Van Renne](https://github.com/ValerieVR/markdown-challenge) || [Vidyashree Tarikere](https://github.com/VidyashreeTarikere/markdown-challenge) || [Wendy Stoop](https://github.com/WendyStoop/markdown-challenge)>>
